@@ -4,13 +4,13 @@
 
 En el marco de la residencia de Asimtria.org en Platohedro entre otros proyectos desarrollados documentamos el como hacer los dispositovos vistos durante los talleres (Contrucción electroacustica.
 
-# 1 Introducción  
+# Introducción  
 
 En la primera etapa del ciclo de talleres Marco valdivia brindo a los participantes unas palabras y algunos refentes teoricos a cerca de que es el mundo de la electroacustica y como a partir de practicas experimentales podemos acercanos a esa materia.
 
- # 1.1 Acercamientos teoricos sobre la electroacustica. 
+ # 1 Acercamientos teoricos sobre la electroacustica. 
  
- ### Referentes:
+ ## 1.1 Referentes:
  
  * ¿Cómo viaja el Sonido? https://www.youtube.com/watch?v=W7Z5S3wPKEQ
  * Fundamentos del sonido https://www.youtube.com/watch?v=NK81fk7fFU8
