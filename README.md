@@ -10,9 +10,10 @@ En la primera etapa del ciclo de talleres Marco valdivia brindo a los participan
  1.1 Acercamientos teoricos sobre la electroacustica. 
  
  Referentes:
- *¿Cómo viaja el Sonido? https://www.youtube.com/watch?v=W7Z5S3wPKEQ
- *Fundamentos del sonido https://www.youtube.com/watch?v=NK81fk7fFU8
- *Efecto Piezoléctrico https://www.youtube.com/watch?v=1UMFcOSMJcA
+ 
+ * ¿Cómo viaja el Sonido? https://www.youtube.com/watch?v=W7Z5S3wPKEQ
+ * Fundamentos del sonido https://www.youtube.com/watch?v=NK81fk7fFU8
+ * Efecto Piezoléctrico https://www.youtube.com/watch?v=1UMFcOSMJcA
  
  1.2 Construcción de Piezo electrico. 
  
