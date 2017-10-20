@@ -43,7 +43,7 @@ Materiales.
 * 4 Cables
 * 2 Jack hembra
 
-![Esquematico](https://github.com/Noisk8/Cacharreo-ElectroAcustico/blob/master/Ampli-peque.png)
+![Esquematico](https://github.com/Noisk8/Cacharreo-ElectroAcustico/blob/master/g4692.png)
 
 La función de este circuito consiste en amplificar selñales, el circuito integrado Lm386 con la configuración que muestra la imágen se encarga de amplificar las señales que lleguen a el. las señales que recibe son por medio de el (IN Pin3) y a través del (OUT pin5)  amplifica.
 
