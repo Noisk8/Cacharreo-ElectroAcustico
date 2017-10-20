@@ -16,7 +16,9 @@ En la primera etapa del ciclo de talleres Marco valdivia brindo a los participan
  * Fundamentos del sonido https://www.youtube.com/watch?v=NK81fk7fFU8
  * Efecto Piezoléctrico https://www.youtube.com/watch?v=1UMFcOSMJcA
  
- ## 1.2 Construcción de Piezo electrico. 
+ # 2 Construcción 
+ 
+ ## Construción de Piezo electrico. 
  
  El piezo electrico es un dispositivo, que permite la apmificación de señales por medio de la presión y/o vibración sobre si mismo o la superficie que lo soporte. Además anexamos al piezo un jack macho para poder ser conectado al amplificador. 
  
@@ -55,7 +57,7 @@ Como podemos observar en el esquematico el pin 3 está dispuesto para recibir se
 En este caso vamos a colocar jacks embras de un cuarto en los pines 3 y 5.
 
 
-## 2.2 Construcción de Hidrofno
+## 2.3 Construcción de Hidrofno
 
 Con la premisa del piezo electrico adaptamos un par de componentes para usar el piezo como hidrofono.
 
