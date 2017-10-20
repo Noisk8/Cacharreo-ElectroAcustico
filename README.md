@@ -55,7 +55,9 @@ Como podemos observar en el esquematico el pin 3 está dispuesto para recibir se
 En este caso vamos a colocar jacks embras de un cuarto en los pines 3 y 5.
 
 
-## 2.2 Con la premisa del piezo electrico adaptamos un par de componentes para usar el piezo como hidrofono.
+## 2.2 Construcción de Hidrofno
+
+Con la premisa del piezo electrico adaptamos un par de componentes para usar el piezo como hidrofono.
 
 ### Materiales.
 
